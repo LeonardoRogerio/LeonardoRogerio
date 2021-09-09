@@ -6,7 +6,7 @@
   
   ##
 
-   ![Snake animation](https://github.com/LeonardoRogerio/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
