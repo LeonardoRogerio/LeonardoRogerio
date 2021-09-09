@@ -7,7 +7,7 @@ Sejam bem vindos ! 👽
 </div>
   
 
-
+![Snake animation](https://github.com/LeonardoRogerio/LeonardoRogerio/blob/output/github-contribution-grid-snake.svg)
 
 
 
